@@ -1,0 +1,5 @@
+# Global owner — reviews all PRs by default
+* @is-pinoy-dev/maintainers
+
+# Subdomain registrations
+/subdomains/ @is-pinoy-dev/maintainers
