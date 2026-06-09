@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/is-pinoy-dev/domains/main/schemas/v1/subdomain.schema.json",
+  "subdomain": "jaspergumora",
+  "owner": {
+    "github": "Vantalim12"
+  },
+  "records": {
+    "CNAME": {
+      "value": "personal-portfolio-two-mu-99.vercel.app."
+    }
+  }
+}
